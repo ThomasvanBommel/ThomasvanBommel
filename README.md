@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasvanBommel
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on an open source project
+- 🥞 a full stack web developer
+- 💞️ looking to collaborate
+
 - 📫 thomas@vanbommel.ca
