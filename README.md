@@ -1,6 +1,6 @@
-👋 Hi, I’m @ThomasvanBommel
-🥞 a full stack web developer
-💞️ looking to collaborate
-
-
+👋 Hello, I’m Thomas vanBommel <br/>
+🥞 a full stack web developer  <br/>
+💞️ looking to collaborate      <br/>
+<br/>
+<br/>
 📫 thomas@vanbommel.ca
