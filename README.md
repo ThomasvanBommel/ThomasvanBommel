@@ -4,4 +4,3 @@
 💕 Want to colaborate?           <br/>
 <br/>
 🙌 Let's make something!         <br/>
-📫 thomas@vanbommel.ca
